@@ -1,0 +1,76 @@
+<RCC>
+    <qresource prefix="/background">
+        <file>img/Background/background.jpg</file>
+        <file>img/Background/background1.png</file>
+        <file>img/Background/background2.png</file>
+        <file>img/Background/background3.png</file>
+    </qresource>
+    <qresource prefix="/COda">
+        <file>img/CODA/Original/blue.png</file>
+        <file>img/CODA/Original/green.png</file>
+        <file>img/CODA/Original/orange.png</file>
+        <file>img/CODA/Original/purple.png</file>
+        <file>img/CODA/Original/red.png</file>
+        <file>img/CODA/Original/yellow.png</file>
+        <file>img/CODA/Striped/blue_striped.png</file>
+        <file>img/CODA/Striped/green_striped.png</file>
+        <file>img/CODA/Striped/orange_striped.png</file>
+        <file>img/CODA/Striped/purple_striped.png</file>
+        <file>img/CODA/Striped/red_striped.png</file>
+        <file>img/CODA/Striped/yellow_striped.png</file>
+        <file>img/CODA/Wrapped/blue.png</file>
+        <file>img/CODA/Wrapped/green.png</file>
+        <file>img/CODA/Wrapped/orange.png</file>
+        <file>img/CODA/Wrapped/purple.png</file>
+        <file>img/CODA/Wrapped/red.png</file>
+        <file>img/CODA/Wrapped/yellow.png</file>
+        <file>img/CODA/masterball.png</file>
+    </qresource>
+    <qresource prefix="/logo">
+        <file>img/Logo/LOGO.png</file>
+        <file>img/Logo/Logo_COdat.jpg</file>
+        <file>img/Logo/LOGOOOOOO.png</file>
+    </qresource>
+    <qresource prefix="/star">
+        <file>img/Item/STAR1.png</file>
+        <file>img/Item/STAR2.png</file>
+        <file>img/Item/STAR3.png</file>
+        <file>img/Item/FAIL.png</file>
+    </qresource>
+    <qresource prefix="/ball">
+        <file>img/Item/BALL1.png</file>
+        <file>img/Item/BALL2.png</file>
+        <file>img/Item/BALL3.png</file>
+        <file>img/Item/BALL4.png</file>
+        <file>img/Item/BALL5.png</file>
+        <file>img/Item/BALL6.png</file>
+        <file>img/Item/BALL7.png</file>
+        <file>img/Item/BALL8.png</file>
+        <file>img/Item/BALL9.png</file>
+        <file>img/Item/BALL10.png</file>
+    </qresource>
+    <qresource prefix="/level">
+        <file>img/Item/Level1.png</file>
+        <file>img/Item/Level2.png</file>
+        <file>img/Item/Level3.png</file>
+        <file>img/Item/Level4.png</file>
+        <file>img/Item/Level5.png</file>
+        <file>img/Item/Level6.png</file>
+        <file>img/Item/Level7.png</file>
+        <file>img/Item/Level8.png</file>
+        <file>img/Item/Level9.png</file>
+        <file>img/Item/Level10.png</file>
+    </qresource>
+    <qresource prefix="/other">
+        <file>img/Item/GUEST.png</file>
+        <file>img/Item/OK.png</file>
+        <file>img/Item/PLAY.png</file>
+        <file>img/Item/PLAYER.png</file>
+        <file>img/Item/PUSH_SCORE.png</file>
+        <file>img/Item/REGISTER.png</file>
+        <file>img/Item/SIGNIN.png</file>
+        <file>img/Item/SIGNOUT.png</file>
+        <file>img/Item/START.png</file>
+        <file>img/Item/USERNAME.png</file>
+    </qresource>
+</RCC>
